@@ -1,4 +1,4 @@
----
+yeasinarafatg---
 manufacturer:
     - general
 ---
